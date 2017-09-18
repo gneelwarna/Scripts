@@ -1,4 +1,0 @@
-''' 
-Chinese remainder theorem
-'''
-
