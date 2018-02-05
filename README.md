@@ -1,2 +1,2 @@
-# trial_programs
-Trial Programs for fun
+# Cryptography
+Lab assignments
